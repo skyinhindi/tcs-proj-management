@@ -1,0 +1,16 @@
+.card {
+  /* background-color: #ccc; */
+  margin: 5px;
+  padding: 5px;
+  border-radius: 3px;
+  text-align: left;
+  width: 50%;
+  border-bottom: 1px solid #ccc;
+}
+.card h4 {
+  color: #333;
+}
+
+.card span {
+  color: red;
+}
